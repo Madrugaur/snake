@@ -1,0 +1,4 @@
+pynput
+cursor
+colorama
+python-cfonts
